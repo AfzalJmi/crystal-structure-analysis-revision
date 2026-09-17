@@ -1,0 +1,14 @@
+{
+  "sample_id": "A-Z-1",
+  "measurement_type": "powder X-ray diffraction",
+  "two_theta_range_deg": [20.0, 80.0],
+  "two_theta_step_deg": 0.02,
+  "radiation_assumption": "Cu K-alpha",
+  "wavelength_angstrom": 1.5406,
+  "instrument_broadening_standard_available": false,
+  "data_limitations": [
+    "No instrument-standard scan is supplied.",
+    "Reported coherent-domain size is apparent and is not corrected for instrumental broadening.",
+    "Phase assessment is limited to reflections inside the measured angular range."
+  ]
+}
