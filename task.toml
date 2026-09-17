@@ -1,0 +1,6 @@
+[agent]
+timeout_sec = 900
+
+[task]
+id = "zno-xrd-blind-characterisation"
+title = "ZnO nanoparticle XRD characterisation"
